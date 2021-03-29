@@ -193,8 +193,8 @@ body{
 	position: absolute;
 	right: 0px;
 	width: 0px;
-	background-color: #868e8e;
-	border-left: 1px solid #868e8e;
+	background-color: #ebb4b4;
+	border-left: 1px solid #ebb4b4;
 
 	animation: maquina 5s infinite alternate steps(12);
 
